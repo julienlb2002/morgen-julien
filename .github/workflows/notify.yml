@@ -1,0 +1,24 @@
+name: Push-Benachrichtigung bei neuer Ausgabe
+on:
+  push:
+    branches: [main]
+    paths: ["data/edition.json"]
+  workflow_dispatch:
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Warten, bis GitHub Pages die neue Ausgabe ausliefert
+        run: sleep 60
+      - name: Nachricht an ntfy senden
+        env:
+          TOPIC: ${{ vars.NTFY_TOPIC || 'morgen-julien-f70dc4ad72' }}
+          APP_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+        run: |
+          EDITION=$(jq -r '.current.edition' data/edition.json)
+          BODY=$(jq -r '.current.glance[] | "• " + .text' data/edition.json)
+          jq -n --arg topic "$TOPIC" --arg title "Morgen, Julien – Ausgabe $EDITION ist da" \
+                --arg msg "$BODY" --arg click "$APP_URL" \
+                '{topic: $topic, title: $title, message: $msg, click: $click, tags: ["sunrise"]}' \
+          | curl -sS -H "Content-Type: application/json" -d @- https://ntfy.sh
