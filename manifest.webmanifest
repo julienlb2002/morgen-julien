@@ -1,17 +1,32 @@
 {
+  "id": "/morgen-julien/",
   "name": "Morgen, Julien",
-  "short_name": "Morgen, Julien",
+  "short_name": "Morgen",
   "description": "Persönliches Politik-Briefing im Story-Format",
   "lang": "de",
-  "start_url": "./",
-  "scope": "./",
+  "start_url": "/morgen-julien/",
+  "scope": "/morgen-julien/",
   "display": "standalone",
-  "orientation": "portrait",
   "background_color": "#0b0f17",
   "theme_color": "#0b0f17",
   "icons": [
-    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
-    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
-    {"src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
   ]
 }
