@@ -1,10 +1,10 @@
 {
-  "id": "/morgen-julien/",
+  "id": "/morgen-julien/?app=2",
   "name": "Morgen, Julien",
   "short_name": "Morgen",
   "description": "Persönliches Politik-Briefing im Story-Format",
   "lang": "de",
-  "start_url": "/morgen-julien/",
+  "start_url": "/morgen-julien/?source=app",
   "scope": "/morgen-julien/",
   "display": "standalone",
   "background_color": "#0b0f17",
