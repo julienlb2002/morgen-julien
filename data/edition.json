@@ -1,19 +1,19 @@
 {
   "current": {
-    "edition": 1,
-    "date": "2026-10-19",
+    "edition": 2,
+    "date": "2026-10-29",
     "glance": [
       {
         "r": "de",
-        "text": "Nach dem Rücktritt von Bärbel Bas eskaliert der Ton in der schwarz-roten Koalition; Schwarz-Rot liegt in Umfragen weit unter einer Mehrheit."
+        "text": "Nach dem Rücktritt von Bärbel Bas ringt die Koalition um Ton und Kurs, und Alexander Schweitzer übernimmt das Arbeitsministerium."
       },
       {
         "r": "eu",
-        "text": "Der EU-Gipfel endet ohne Einigung beim nächsten EU-Haushalt; die Ukraine bittet um weitere 70 Mrd. €."
+        "text": "Für 2027 fehlen der Ukraine rund 70 Mrd. €; die EU-Staats- und Regierungschefs beraten dazu am 26./27. November."
       },
       {
         "r": "intl",
-        "text": "Trumps Diesel-Deal mit Putin sorgt für Empörung in Kyjiw und Brüssel, zwei Wochen vor den US-Midterms."
+        "text": "Der Diesel-Deal zwischen Trump und Putin sorgt für Empörung in Kyjiw; Trump fordert inzwischen Selenskyjs Ablösung."
       }
     ],
     "topics": [
@@ -24,33 +24,29 @@
           "Regierung",
           "Parteien"
         ],
-        "title": "Bas tritt zurück, die Koalition streitet über den Ton",
+        "title": "Nach Bas-Rücktritt: Koalition streitet über den Ton",
         "figure": {
-          "value": "36 %",
-          "label": "Sitzanteil, auf den Schwarz-Rot laut INSA-Umfrage noch käme"
+          "value": "29,5 %",
+          "label": "AfD in der INSA-Umfrage vom 27.10."
         },
         "paras": [
-          "Bärbel Bas hat am 12. Oktober ihre Ämter als Arbeitsministerin und SPD-Co-Vorsitzende niedergelegt. Sie nannte den Tod ihrer Stieftochter und öffentliche Angriffe, auch aus der Union. Nachfolger im Ministerium wird Alexander Schweitzer, der im März die Landtagswahl in Rheinland-Pfalz verloren hatte und als Kritiker des Rentenkurses gilt.",
-          "Seitdem wirft die SPD der Union vor, Bas in ihrer Trauer attackiert zu haben; Manuela Schwesig nannte das unmenschlich. In der Union kursiert umgekehrt der Verdacht, die SPD bereite Rot-Rot-Grün vor. Merz fordert, die SPD solle die Sondierungen mit der Linken in Berlin abbrechen. Parallel wird in der CDU wieder offen über die Brandmauer zur AfD diskutiert."
+          "Bärbel Bas hat ihre Ämter als Arbeitsministerin und SPD-Co-Vorsitzende niedergelegt. Ihr Nachfolger im Ministerium ist Alexander Schweitzer, den Bundespräsident Steinmeier ernannt hat.",
+          "Die SPD wirft der Union vor, Bas in ihrer Trauer angegriffen zu haben. Merz hält dagegen und drängt darauf, die Koalition zu stabilisieren."
         ],
         "concepts": [
           "Personalisierung",
           "Darstellungspolitik"
         ],
-        "lens": "Der Konflikt wird über Personen und Moral ausgetragen, nicht über Sachpolitik. Kommentatoren vermissen eine Regierungserzählung. Das lässt sich mit Sarcinellis Unterscheidung von Darstellungs- und Entscheidungspolitik fassen: Die Regierung entscheidet, findet aber keine Darstellung, die ihre Entscheidungen trägt. Achte auf das Medien-Frame „Kanzlerdämmerung“, das sich seit September verfestigt.",
-        "question": "Wer profitiert kommunikativ davon, dass über Moral gestritten wird statt über die Rentenreform?",
+        "lens": "Der Streit läuft über Personen und Moral, weniger über Sachfragen. Die Regierung entscheidet, findet aber keine Erzählung, die ihre Entscheidungen trägt. Achte darauf, wie die Berichterstattung die Koalition als Krisenthema rahmt.",
+        "question": "Wer profitiert kommunikativ davon, dass über Moral gestritten wird statt über Sachpolitik?",
         "sources": [
           {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/politik/deutschland/alexander-schweitzer-baerbel-bas-spd-arbeitsminister-100.html"
+            "name": "leinetal24",
+            "url": "https://www.leinetal24.de/welt/krise-nach-bas-ruecktritt-wer-stabilisiert-schwarz-rot-zr-94538688.html"
           },
           {
-            "name": "Kurier-Verlag",
-            "url": "https://www.kurierverlag.de/politik/union-gegen-spd-zahlreiche-streitpunkte-spalten-die-merz-koalition-zr-94541459.html"
-          },
-          {
-            "name": "Nürnberger Nachrichten (dpa-AFX)",
-            "url": "https://www.ariva.de/news/pressestimme-nuernberger-nachrichten-zu-streit-in-der-12172684"
+            "name": "leinetal24",
+            "url": "https://www.leinetal24.de/welt/steinmeier-ernennt-schweitzer-merz-macht-druck-zr-94538401.html"
           }
         ],
         "motif": "conflict"
@@ -58,143 +54,111 @@
       {
         "r": "eu",
         "tags": [
-          "Europäischer Rat"
+          "Europäischer Rat",
+          "Ukraine"
         ],
-        "title": "EU-Gipfel: kein Haushaltsdeal, neue Lücke bei der Ukraine-Hilfe",
+        "title": "Sondergipfel Ende November: Ukraine-Lücke und EU-Haushalt",
         "figure": {
           "value": "70 Mrd. €",
-          "label": "zusätzlich erbetene Ukraine-Hilfe"
+          "label": "Finanzierungslücke der Ukraine für 2027"
         },
         "paras": [
-          "Beim Europäischen Rat am 15. und 16. Oktober gab es keine Einigung auf den Finanzrahmen 2028–2034. Ratspräsident Costa soll einen Kompromiss vorlegen, möglicherweise vor einem Sondergipfel am 26. November. Selenskyj bat um zusätzliche 70 Mrd. € für das kommende Jahr.",
-          "Italien und die Visegrád-Staaten drängten darauf, den Emissionshandel neu aufzumachen. Für eine qualifizierte Mehrheit fehlen ihnen die Stimmen; Euronews deutet den Vorstoß vor allem als Signal ans heimische Publikum."
+          "Die Staats- und Regierungschefs wollen am 26. und 27. November über die Ukraine-Finanzierung für 2027 sprechen. Dort geht es auch um den nächsten langfristigen EU-Haushalt für 2028 bis 2034.",
+          "Für 2026 ist die Ukraine-Finanzierung gedeckt. Für 2027 nennt die Kommission eine Lücke von etwa 70 Mrd. €."
         ],
         "concepts": [
           "Zwei-Ebenen-Spiel",
           "Europäische Öffentlichkeit"
         ],
-        "lens": "Der ETS-Vorstoß ist ein klassisches Zwei-Ebenen-Spiel (Putnam 1988): Regierungen verhandeln in Brüssel, kommunizieren aber für die Wählerschaft zu Hause. Gipfel werden zudem überwiegend national gerahmt, mit dem eigenen Regierungschef als Hauptakteur.",
-        "question": "Warum lohnt sich ein aussichtsloser Vorstoß für eine Regierung trotzdem?",
+        "lens": "Gipfel werden meist national gerahmt, mit dem eigenen Regierungschef als Hauptakteur. Wer auf dem Sondergipfel welche Zahl als Erfolg verkauft, wird die Berichterstattung in den Mitgliedstaaten prägen.",
+        "question": "Welche Zahl wird in deutschen Medien als Erfolg oder Scheitern des Gipfels gerahmt?",
         "sources": [
           {
-            "name": "Euronews",
-            "url": "https://www.euronews.com/2026/10/16/budget-ukraine-migration-five-takeaways-from-the-eu-leaders-summit"
+            "name": "Reuters via Internazionale",
+            "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/21/eu-leaders-to-discuss-2027-money-for-ukraine-next-eu-budget-on-november-26-27"
           },
           {
-            "name": "Europäischer Rat",
-            "url": "https://www.consilium.europa.eu/en/meetings/european-council/2026/10/15-16/"
+            "name": "Pravda (Ukraine)",
+            "url": "https://www.pravda.com.ua/eng/news/2026/10/02/8056167/"
           }
         ],
         "motif": "money"
-      },
-      {
-        "r": "intl",
-        "tags": [
-          "USA · Russland · Ukraine"
-        ],
-        "title": "Trumps Diesel-Deal mit Putin",
-        "figure": {
-          "value": "6,28 $",
-          "label": "Dieselpreis je Gallone in den USA"
-        },
-        "paras": [
-          "Trump hat Anfang Oktober Lieferungen russischen Diesels angekündigt, beginnend mit über 300.000 Tonnen; das Finanzministerium lockerte dafür befristet Sanktionen. Begründet wird das mit den hohen Spritpreisen infolge des Iran-Kriegs. Selenskyj nannte den Deal eine schwache Entscheidung starker Partner, Demokraten sprechen von Verrat an der Ukraine."
-        ],
-        "concepts": [
-          "Framing",
-          "Innen- vs. Außenpolitik"
-        ],
-        "lens": "Kurz vor den Midterms besetzt Trump das Thema Lebenshaltungskosten, auch um den Preis außenpolitischer Glaubwürdigkeit. Das Frame „für das amerikanische Volk“ steht gegen das Gegenframe „Verrat an Verbündeten“.",
-        "question": "Welches Frame setzt sich in welchen Medien durch, und warum?",
-        "sources": [
-          {
-            "name": "MPR News / AP",
-            "url": "https://www.mprnews.org/story/2026/10/10/trump-strikes-deal-with-putin-to-get-diesel-in-sharp-reversal-of-us-policy"
-          },
-          {
-            "name": "Axios",
-            "url": "https://axios.com/2026/10/10/trump-zelensky-putin-diesel-deal-war"
-          }
-        ],
-        "motif": "oil"
       },
       {
         "r": "us",
         "tags": [
           "Midterms"
         ],
-        "title": "Midterms in zwei Wochen: Demokraten klar vorn",
-        "figure": {
-          "value": "D +8,9",
-          "label": "generische Kongressfrage"
-        },
+        "title": "Midterms am 3. November: Trump warnt die Republikaner",
         "paras": [
-          "Am 3. November werden das Repräsentantenhaus und ein Drittel des Senats gewählt. Im Schnitt der generischen Kongressumfragen führen die Demokraten deutlich. Ein Vorsprung dieser Größe deutet auf eine demokratische Mehrheit im Repräsentantenhaus; der Senat gilt als offener. In Texas hat die frühe Stimmabgabe begonnen."
+          "Trump wirbt in den letzten Wochen vor der Wahl im Kongress und sagt laut Berichten, er werde ein Amtsenthebungsverfahren riskieren, falls die Republikaner das Repräsentantenhaus verlieren.",
+          "Repräsentantenhaus und ein Drittel des Senats werden am 3. November gewählt. Das Ergebnis entscheidet, ob Trump künftig gegen eine Kongressmehrheit regieren muss."
         ],
         "concepts": [
-          "Horse-Race-Journalismus",
-          "Referendumswahl"
+          "Referendumswahl",
+          "Horse-Race-Journalismus"
         ],
-        "lens": "Midterms funktionieren meist als Referendum über den Präsidenten; dazu passt, dass Trumps Lager mit Preisthemen gegenzusteuern versucht. In der Berichterstattung verdrängen Umfragen und Gewinnchancen oft die Sachthemen.",
-        "question": "Woran erkennst du Horse-Race-Berichterstattung in deutschen Medien über die Midterms?",
+        "lens": "Midterms wirken meist als Referendum über den Präsidenten. Trumps Warnung ist selbst eine Kommunikationsstrategie: Sie mobilisiert die eigene Basis, verschiebt aber die Debatte von Sachfragen auf die Machtfrage.",
+        "question": "Woran erkennst du, dass Midterm-Berichterstattung eher Umfragen als Inhalte abbildet?",
         "sources": [
           {
-            "name": "Silver Bulletin",
-            "url": "https://www.natesilver.net/p/generic-ballot-average-2026-nate-silver-bulletin-congress-polls"
+            "name": "SCMP",
+            "url": "https://www.scmp.com/news/world/united-states-canada/article/3338971/trump-warns-hell-be-impeached-if-republicans-dont-win-us-midterms"
           },
           {
-            "name": "RealClearPolitics",
-            "url": "https://www.realclearpolitics.com/2026/10/01/2026_midterms_what_the_generic_ballot_polls_tell_us_712674.html"
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/briefing/trump-effekt/midterms-uno-ki-100.html"
           }
         ],
         "motif": "ballot"
       },
       {
-        "r": "media",
+        "r": "intl",
         "tags": [
-          "Plattformregulierung"
+          "USA · Russland · Ukraine"
         ],
-        "title": "Medienaufseher will Plattformen für Vielfalt zahlen lassen",
+        "title": "Diesel-Deal mit Putin: Empörung in Kyjiw, Trump fordert Wechsel",
         "paras": [
-          "Thorsten Schmiege, Vorsitzender der Direktorenkonferenz der Landesmedienanstalten, fordert ein härteres Vorgehen gegen große Social-Media- und KI-Anbieter. Die EU-Regeln würden aus Rücksicht auf die USA zu zaghaft durchgesetzt. Weil Plattformen einen wachsenden Teil der Werbeerlöse abschöpfen, sollen sie nach dem Vorbild des Rundfunks Verantwortung für Vielfalt übernehmen. Eine Digitalabgabe als Strafe lehnt er ab."
+          "Trump hat Anfang Oktober Lieferungen russischen Diesels angekündigt. Die Regierung lockerte dafür Sanktionen, die Begründung sind hohe Spritpreise. Selenskyj nannte den Deal eine schwache Entscheidung.",
+          "Inzwischen fordert Trump laut Berichten, Selenskyj solle ersetzt werden. Der Streit belastet damit auch die Verhandlungen über einen Waffenstillstand."
         ],
         "concepts": [
-          "Gatekeeping",
-          "Medienvielfalt"
+          "Framing",
+          "Innen- vs. Außenpolitik"
         ],
-        "lens": "Es geht um die Finanzierung journalistischer Öffentlichkeit, wenn Plattformen als Intermediäre die Gatekeeper-Rolle übernehmen. Der Rundfunk-Vergleich ist bemerkenswert: Plattformen würden regulatorisch wie publizistische Akteure behandelt.",
-        "question": "Sind Plattformen neutrale Vermittler oder selbst publizistische Akteure?",
+        "lens": "Kurz vor den Midterms setzt Trump auf Lebenshaltungskosten, auch wenn das außenpolitische Glaubwürdigkeit kostet. Die Gegenerzählung „Verrat an Verbündeten“ steht gegen „zum Nutzen der Amerikaner“.",
+        "question": "Welches Frame setzt sich in welchen Medien durch, und warum?",
         "sources": [
           {
-            "name": "news.de / dpa",
-            "url": "https://news.de/tv/860104804/medienaufseher-schmiege-will-plattformen-mehr-in-die-pflicht-nehmen-tv-news-der-dpa-aktuell-zu-medien-konferenzen-und-radio/1"
+            "name": "Axios",
+            "url": "https://axios.com/2026/10/09/trump-putin-diesel-agreement-ukraine-war"
           },
           {
-            "name": "BDZV",
-            "url": "https://www.bdzv.de/service/presse/pressemitteilungen/2026/bebeta-2026-weimer-kuendigt-schaerfere-plattformregulierung-und-staerkeren-schutz-journalistischer-inhalte-an"
+            "name": "Khaleej Times",
+            "url": "https://www.khaleejtimes.com/trump-urges-zelensky-replacement-diesel-row-rages"
           }
         ],
-        "motif": "microphone"
+        "motif": "globe"
       }
     ],
     "poll": {
       "institute": "INSA",
-      "date": "2026-10-17",
-      "n": 1206,
-      "prev": "13.10.",
-      "source": "https://dawum.de/Bundestag/INSA/2026-10-17/",
+      "date": "2026-10-27",
+      "n": null,
+      "prev": "24.10.",
+      "source": "https://dawum.de/Bundestag/",
       "parties": [
         {
           "id": "afd",
           "name": "AfD",
-          "value": 29.0,
-          "change": -1.0
+          "value": 29.5,
+          "change": -0.5
         },
         {
           "id": "union",
           "name": "CDU/CSU",
-          "value": 18.0,
-          "change": -0.5
+          "value": 19.0,
+          "change": 0
         },
         {
           "id": "gruene",
@@ -205,32 +169,32 @@
         {
           "id": "spd",
           "name": "SPD",
-          "value": 13.0,
-          "change": -0.5
+          "value": 14.0,
+          "change": 0
         },
         {
           "id": "linke",
           "name": "Linke",
-          "value": 11.0,
-          "change": 1.0
+          "value": 10.0,
+          "change": 0
         },
         {
           "id": "bsw",
           "name": "BSW",
-          "value": 4.0,
-          "change": 0.5
+          "value": 3.0,
+          "change": 0
         },
         {
           "id": "fdp",
           "name": "FDP",
-          "value": 4.0,
-          "change": -0.5
+          "value": 5.0,
+          "change": 1.0
         },
         {
           "id": "sonst",
           "name": "Sonstige",
-          "value": 7.0,
-          "change": 1.0
+          "value": 5.5,
+          "change": -0.5
         }
       ],
       "coalitions": [
@@ -266,19 +230,7 @@
         }
       ]
     },
-    "lean": {
-      "title": "USA: generische Kongressfrage",
-      "value": 8.9,
-      "label": "D +8,9",
-      "note": "Silver-Bulletin-Durchschnitt, Stand 19.10. Positiv = Vorsprung der Demokraten.",
-      "source": "https://www.natesilver.net/p/generic-ballot-average-2026-nate-silver-bulletin-congress-polls"
-    },
     "dates": [
-      {
-        "date": "2026-10-24",
-        "r": "eu",
-        "label": "EU-Golfstaaten-Gipfel in Saudi-Arabien"
-      },
       {
         "date": "2026-11-03",
         "r": "us",
@@ -287,9 +239,302 @@
       {
         "date": "2026-11-26",
         "r": "eu",
-        "label": "Möglicher EU-Sondergipfel zum Haushalt"
+        "label": "EU-Sondergipfel (26./27.11.)"
       }
     ]
   },
-  "archive": []
+  "archive": [
+    {
+      "edition": 1,
+      "date": "2026-10-19",
+      "glance": [
+        {
+          "r": "de",
+          "text": "Nach dem Rücktritt von Bärbel Bas eskaliert der Ton in der schwarz-roten Koalition; Schwarz-Rot liegt in Umfragen weit unter einer Mehrheit."
+        },
+        {
+          "r": "eu",
+          "text": "Der EU-Gipfel endet ohne Einigung beim nächsten EU-Haushalt; die Ukraine bittet um weitere 70 Mrd. €."
+        },
+        {
+          "r": "intl",
+          "text": "Trumps Diesel-Deal mit Putin sorgt für Empörung in Kyjiw und Brüssel, zwei Wochen vor den US-Midterms."
+        }
+      ],
+      "topics": [
+        {
+          "r": "de",
+          "lead": true,
+          "tags": [
+            "Regierung",
+            "Parteien"
+          ],
+          "title": "Bas tritt zurück, die Koalition streitet über den Ton",
+          "figure": {
+            "value": "36 %",
+            "label": "Sitzanteil, auf den Schwarz-Rot laut INSA-Umfrage noch käme"
+          },
+          "paras": [
+            "Bärbel Bas hat am 12. Oktober ihre Ämter als Arbeitsministerin und SPD-Co-Vorsitzende niedergelegt. Sie nannte den Tod ihrer Stieftochter und öffentliche Angriffe, auch aus der Union. Nachfolger im Ministerium wird Alexander Schweitzer, der im März die Landtagswahl in Rheinland-Pfalz verloren hatte und als Kritiker des Rentenkurses gilt.",
+            "Seitdem wirft die SPD der Union vor, Bas in ihrer Trauer attackiert zu haben; Manuela Schwesig nannte das unmenschlich. In der Union kursiert umgekehrt der Verdacht, die SPD bereite Rot-Rot-Grün vor. Merz fordert, die SPD solle die Sondierungen mit der Linken in Berlin abbrechen. Parallel wird in der CDU wieder offen über die Brandmauer zur AfD diskutiert."
+          ],
+          "concepts": [
+            "Personalisierung",
+            "Darstellungspolitik"
+          ],
+          "lens": "Der Konflikt wird über Personen und Moral ausgetragen, nicht über Sachpolitik. Kommentatoren vermissen eine Regierungserzählung. Das lässt sich mit Sarcinellis Unterscheidung von Darstellungs- und Entscheidungspolitik fassen: Die Regierung entscheidet, findet aber keine Darstellung, die ihre Entscheidungen trägt. Achte auf das Medien-Frame „Kanzlerdämmerung“, das sich seit September verfestigt.",
+          "question": "Wer profitiert kommunikativ davon, dass über Moral gestritten wird statt über die Rentenreform?",
+          "sources": [
+            {
+              "name": "ZDFheute",
+              "url": "https://www.zdfheute.de/politik/deutschland/alexander-schweitzer-baerbel-bas-spd-arbeitsminister-100.html"
+            },
+            {
+              "name": "Kurier-Verlag",
+              "url": "https://www.kurierverlag.de/politik/union-gegen-spd-zahlreiche-streitpunkte-spalten-die-merz-koalition-zr-94541459.html"
+            },
+            {
+              "name": "Nürnberger Nachrichten (dpa-AFX)",
+              "url": "https://www.ariva.de/news/pressestimme-nuernberger-nachrichten-zu-streit-in-der-12172684"
+            }
+          ],
+          "motif": "conflict"
+        },
+        {
+          "r": "eu",
+          "tags": [
+            "Europäischer Rat"
+          ],
+          "title": "EU-Gipfel: kein Haushaltsdeal, neue Lücke bei der Ukraine-Hilfe",
+          "figure": {
+            "value": "70 Mrd. €",
+            "label": "zusätzlich erbetene Ukraine-Hilfe"
+          },
+          "paras": [
+            "Beim Europäischen Rat am 15. und 16. Oktober gab es keine Einigung auf den Finanzrahmen 2028–2034. Ratspräsident Costa soll einen Kompromiss vorlegen, möglicherweise vor einem Sondergipfel am 26. November. Selenskyj bat um zusätzliche 70 Mrd. € für das kommende Jahr.",
+            "Italien und die Visegrád-Staaten drängten darauf, den Emissionshandel neu aufzumachen. Für eine qualifizierte Mehrheit fehlen ihnen die Stimmen; Euronews deutet den Vorstoß vor allem als Signal ans heimische Publikum."
+          ],
+          "concepts": [
+            "Zwei-Ebenen-Spiel",
+            "Europäische Öffentlichkeit"
+          ],
+          "lens": "Der ETS-Vorstoß ist ein klassisches Zwei-Ebenen-Spiel (Putnam 1988): Regierungen verhandeln in Brüssel, kommunizieren aber für die Wählerschaft zu Hause. Gipfel werden zudem überwiegend national gerahmt, mit dem eigenen Regierungschef als Hauptakteur.",
+          "question": "Warum lohnt sich ein aussichtsloser Vorstoß für eine Regierung trotzdem?",
+          "sources": [
+            {
+              "name": "Euronews",
+              "url": "https://www.euronews.com/2026/10/16/budget-ukraine-migration-five-takeaways-from-the-eu-leaders-summit"
+            },
+            {
+              "name": "Europäischer Rat",
+              "url": "https://www.consilium.europa.eu/en/meetings/european-council/2026/10/15-16/"
+            }
+          ],
+          "motif": "money"
+        },
+        {
+          "r": "intl",
+          "tags": [
+            "USA · Russland · Ukraine"
+          ],
+          "title": "Trumps Diesel-Deal mit Putin",
+          "figure": {
+            "value": "6,28 $",
+            "label": "Dieselpreis je Gallone in den USA"
+          },
+          "paras": [
+            "Trump hat Anfang Oktober Lieferungen russischen Diesels angekündigt, beginnend mit über 300.000 Tonnen; das Finanzministerium lockerte dafür befristet Sanktionen. Begründet wird das mit den hohen Spritpreisen infolge des Iran-Kriegs. Selenskyj nannte den Deal eine schwache Entscheidung starker Partner, Demokraten sprechen von Verrat an der Ukraine."
+          ],
+          "concepts": [
+            "Framing",
+            "Innen- vs. Außenpolitik"
+          ],
+          "lens": "Kurz vor den Midterms besetzt Trump das Thema Lebenshaltungskosten, auch um den Preis außenpolitischer Glaubwürdigkeit. Das Frame „für das amerikanische Volk“ steht gegen das Gegenframe „Verrat an Verbündeten“.",
+          "question": "Welches Frame setzt sich in welchen Medien durch, und warum?",
+          "sources": [
+            {
+              "name": "MPR News / AP",
+              "url": "https://www.mprnews.org/story/2026/10/10/trump-strikes-deal-with-putin-to-get-diesel-in-sharp-reversal-of-us-policy"
+            },
+            {
+              "name": "Axios",
+              "url": "https://axios.com/2026/10/10/trump-zelensky-putin-diesel-deal-war"
+            }
+          ],
+          "motif": "oil"
+        },
+        {
+          "r": "us",
+          "tags": [
+            "Midterms"
+          ],
+          "title": "Midterms in zwei Wochen: Demokraten klar vorn",
+          "figure": {
+            "value": "D +8,9",
+            "label": "generische Kongressfrage"
+          },
+          "paras": [
+            "Am 3. November werden das Repräsentantenhaus und ein Drittel des Senats gewählt. Im Schnitt der generischen Kongressumfragen führen die Demokraten deutlich. Ein Vorsprung dieser Größe deutet auf eine demokratische Mehrheit im Repräsentantenhaus; der Senat gilt als offener. In Texas hat die frühe Stimmabgabe begonnen."
+          ],
+          "concepts": [
+            "Horse-Race-Journalismus",
+            "Referendumswahl"
+          ],
+          "lens": "Midterms funktionieren meist als Referendum über den Präsidenten; dazu passt, dass Trumps Lager mit Preisthemen gegenzusteuern versucht. In der Berichterstattung verdrängen Umfragen und Gewinnchancen oft die Sachthemen.",
+          "question": "Woran erkennst du Horse-Race-Berichterstattung in deutschen Medien über die Midterms?",
+          "sources": [
+            {
+              "name": "Silver Bulletin",
+              "url": "https://www.natesilver.net/p/generic-ballot-average-2026-nate-silver-bulletin-congress-polls"
+            },
+            {
+              "name": "RealClearPolitics",
+              "url": "https://www.realclearpolitics.com/2026/10/01/2026_midterms_what_the_generic_ballot_polls_tell_us_712674.html"
+            }
+          ],
+          "motif": "ballot"
+        },
+        {
+          "r": "media",
+          "tags": [
+            "Plattformregulierung"
+          ],
+          "title": "Medienaufseher will Plattformen für Vielfalt zahlen lassen",
+          "paras": [
+            "Thorsten Schmiege, Vorsitzender der Direktorenkonferenz der Landesmedienanstalten, fordert ein härteres Vorgehen gegen große Social-Media- und KI-Anbieter. Die EU-Regeln würden aus Rücksicht auf die USA zu zaghaft durchgesetzt. Weil Plattformen einen wachsenden Teil der Werbeerlöse abschöpfen, sollen sie nach dem Vorbild des Rundfunks Verantwortung für Vielfalt übernehmen. Eine Digitalabgabe als Strafe lehnt er ab."
+          ],
+          "concepts": [
+            "Gatekeeping",
+            "Medienvielfalt"
+          ],
+          "lens": "Es geht um die Finanzierung journalistischer Öffentlichkeit, wenn Plattformen als Intermediäre die Gatekeeper-Rolle übernehmen. Der Rundfunk-Vergleich ist bemerkenswert: Plattformen würden regulatorisch wie publizistische Akteure behandelt.",
+          "question": "Sind Plattformen neutrale Vermittler oder selbst publizistische Akteure?",
+          "sources": [
+            {
+              "name": "news.de / dpa",
+              "url": "https://news.de/tv/860104804/medienaufseher-schmiege-will-plattformen-mehr-in-die-pflicht-nehmen-tv-news-der-dpa-aktuell-zu-medien-konferenzen-und-radio/1"
+            },
+            {
+              "name": "BDZV",
+              "url": "https://www.bdzv.de/service/presse/pressemitteilungen/2026/bebeta-2026-weimer-kuendigt-schaerfere-plattformregulierung-und-staerkeren-schutz-journalistischer-inhalte-an"
+            }
+          ],
+          "motif": "microphone"
+        }
+      ],
+      "poll": {
+        "institute": "INSA",
+        "date": "2026-10-17",
+        "n": 1206,
+        "prev": "13.10.",
+        "source": "https://dawum.de/Bundestag/INSA/2026-10-17/",
+        "parties": [
+          {
+            "id": "afd",
+            "name": "AfD",
+            "value": 29.0,
+            "change": -1.0
+          },
+          {
+            "id": "union",
+            "name": "CDU/CSU",
+            "value": 18.0,
+            "change": -0.5
+          },
+          {
+            "id": "gruene",
+            "name": "Grüne",
+            "value": 14.0,
+            "change": 0
+          },
+          {
+            "id": "spd",
+            "name": "SPD",
+            "value": 13.0,
+            "change": -0.5
+          },
+          {
+            "id": "linke",
+            "name": "Linke",
+            "value": 11.0,
+            "change": 1.0
+          },
+          {
+            "id": "bsw",
+            "name": "BSW",
+            "value": 4.0,
+            "change": 0.5
+          },
+          {
+            "id": "fdp",
+            "name": "FDP",
+            "value": 4.0,
+            "change": -0.5
+          },
+          {
+            "id": "sonst",
+            "name": "Sonstige",
+            "value": 7.0,
+            "change": 1.0
+          }
+        ],
+        "coalitions": [
+          {
+            "name": "Union + SPD (Regierung)",
+            "parties": [
+              "union",
+              "spd"
+            ]
+          },
+          {
+            "name": "Union + Grüne + SPD",
+            "parties": [
+              "union",
+              "gruene",
+              "spd"
+            ]
+          },
+          {
+            "name": "SPD + Grüne + Linke",
+            "parties": [
+              "spd",
+              "gruene",
+              "linke"
+            ]
+          },
+          {
+            "name": "Union + AfD (rechnerisch)",
+            "parties": [
+              "union",
+              "afd"
+            ]
+          }
+        ]
+      },
+      "lean": {
+        "title": "USA: generische Kongressfrage",
+        "value": 8.9,
+        "label": "D +8,9",
+        "note": "Silver-Bulletin-Durchschnitt, Stand 19.10. Positiv = Vorsprung der Demokraten.",
+        "source": "https://www.natesilver.net/p/generic-ballot-average-2026-nate-silver-bulletin-congress-polls"
+      },
+      "dates": [
+        {
+          "date": "2026-10-24",
+          "r": "eu",
+          "label": "EU-Golfstaaten-Gipfel in Saudi-Arabien"
+        },
+        {
+          "date": "2026-11-03",
+          "r": "us",
+          "label": "US-Midterms"
+        },
+        {
+          "date": "2026-11-26",
+          "r": "eu",
+          "label": "Möglicher EU-Sondergipfel zum Haushalt"
+        }
+      ]
+    }
+  ]
 }
